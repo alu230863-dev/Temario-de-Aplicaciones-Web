@@ -4,18 +4,18 @@
 ### Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 **1.-Introducción al desarrollo web**  
 - Historia y evolución del desarrollo web  
-La web surge en 1991 con HTML, páginas muy simples y navegadores básicos como Mosaic.
-El desarrollo web ha pasado de páginas estáticas a aplicaciones interactivas y adaptables, integrando cada vez más tecnologías avanzadas y experiencias centradas en el usuario.
+La web surge en 1991 con HTML, páginas muy simples y navegadores básicos como Mosaic.  
+El desarrollo web ha pasado de páginas estáticas a aplicaciones interactivas y adaptables, integrando cada vez más tecnologías avanzadas y experiencias centradas en el usuario.  
 
-- Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)
+- Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)  
 Las aplicaciones web pueden ser estáticas (simples y rápidas), dinámicas (interactivas y personalizables), SPA (de una sola página con experiencia avanzada) o PWA (web apps con ventajas de apps nativas).  
 Estaticas:  
- HTML, CSS, imágenes, a veces JavaScript muy básico.
-Dinamicas:
-  HTML, CSS, JavaScript, PHP, Python, Ruby, Node.js, bases de datos (MySQL, MongoDB, etc.).
+ HTML, CSS, imágenes, a veces JavaScript muy básico.  
+Dinamicas:  
+  HTML, CSS, JavaScript, PHP, Python, Ruby, Node.js, bases de datos (MySQL, MongoDB, etc.).  
 SPA:  
- JavaScript avanzado, frameworks como React, Angular, Vue.js.
-PWA:
+ JavaScript avanzado, frameworks como React, Angular, Vue.js.  
+PWA:  
  HTML, CSS, JavaScript, Service Workers, Web App Manifest.  
 
 **2.Arquitectura de aplicaciones web**  
