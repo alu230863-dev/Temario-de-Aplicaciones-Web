@@ -4,6 +4,7 @@
 ### Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
   
 **1.-Introducción al desarrollo web**  
+  
 *- Historia y evolución del desarrollo web*  
 La web surge en 1991 con HTML, páginas muy simples y navegadores básicos como Mosaic.  
 El desarrollo web ha pasado de páginas estáticas a aplicaciones interactivas y adaptables, integrando cada vez más tecnologías avanzadas y experiencias centradas en el usuario.  
@@ -20,6 +21,7 @@ Las aplicaciones web pueden ser estáticas (simples y rápidas), dinámicas (int
  HTML, CSS, JavaScript, Service Workers, Web App Manifest.  
 
 **2.Arquitectura de aplicaciones web**  
+  
 *- Cliente-Servidor*  
 El modelo **cliente-servidor** es una arquitectura fundamental en el desarrollo web y en redes de computadoras. Describe cómo dos entidades (cliente y servidor) interactúan para intercambiar información y servicios.  
 El modelo cliente-servidor divide responsabilidades y permite la comunicación entre dispositivos y servicios a través de una red, siendo la base de la web moderna.  
@@ -33,10 +35,12 @@ La arquitectura de tres capas divide una aplicación en presentación, lógica d
 **API-First Design** es una metodología para el desarrollo de software donde la API se diseña y documenta antes de implementar cualquier funcionalidad de backend o frontend.  
 
 **3. -Lenguajes y tecnologías fundamentales**  
+  
 *- HTML, CSS, JavaScript, PHP, MySQL*  
 Estos cinco componentes suelen formar la base de muchas aplicaciones web modernas, permitiendo crear sitios interactivos, bien diseñados y con gestión de datos.  
 
 **4.-Control de versiones**  
+  
 *- Git y GitHub*  
 **Git** es un sistema de control de versiones distribuido, creado por Linus Torvalds en 2005. Se utiliza para gestionar y controlar el historial de cambios en proyectos de desarrollo de software, permitiendo que varios desarrolladores trabajen de forma colaborativa y eficiente.  
 **GitHub** es una plataforma en la nube que utiliza Git para alojar proyectos de software y facilitar la colaboración entre desarrolladores. Además de ofrecer almacenamiento de repositorios, GitHub proporciona herramientas para revisión de código, gestión de incidencias (issues), integración continua, documentación, y mucho más.  
@@ -46,7 +50,9 @@ El flujo de trabajo con ramas es una práctica esencial en el desarrollo con Git
 El flujo de trabajo con ramas, merge y pull requests facilita la colaboración, la revisión de código y la integración controlada de cambios en proyectos de software.  
 
 ### Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
+  
 **1.-Diseño e implementación del frontend**  
+  
 *- Maquetación/Wireframe/Mockup*  
  **Maquetacion:**  
  La maquetación es el proceso de estructurar y organizar los elementos visuales y de contenido dentro de una página web o aplicación.  
@@ -59,6 +65,7 @@ El flujo de trabajo con ramas, merge y pull requests facilita la colaboración, 
 **API** significa **Application Programming Interface** (Interfaz de Programación de Aplicaciones). Es un conjunto de reglas y definiciones que permiten que diferentes programas, sistemas o componentes de software se comuniquen entre sí.  
 
 **2.-Diseño e implementación del backend**  
+  
 *- Servidor*  
 
 *- Manejo de peticiones y respuestas HTTP*  
@@ -66,6 +73,7 @@ El flujo de trabajo con ramas, merge y pull requests facilita la colaboración, 
 *- Conexión a bases de datos (MySQL, PostgreSQL, MongoDB)*  
 
 **3.-Bases de datos**  
+  
 *- Modelado de datos y relaciones*  
 
 *- ORM (Object Relational Mapping)*  
@@ -73,12 +81,15 @@ El flujo de trabajo con ramas, merge y pull requests facilita la colaboración, 
 *- CRUD desde el backend*  
 
 **4.-Seguridad básica en aplicaciones web**  
+  
 *- Validación de formularios*  
 
 *- Autenticación y autorización*  
 
 ### Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional  
+  
 **1. -Integración de frontend y backend**  
+  
 *- Interfaz de usuario Frontend*  
 
 *- Manejo de API*  
@@ -86,6 +97,7 @@ El flujo de trabajo con ramas, merge y pull requests facilita la colaboración, 
 *- Proceso de Solicitud y Respuesta de Backend*  
 
 **2.- Almacenamiento en Servidor**  
+  
 *- Tipos de servidores*  
 
 *- Servidores y servicios de hosting*  
@@ -93,6 +105,7 @@ El flujo de trabajo con ramas, merge y pull requests facilita la colaboración, 
 *- Proveedores de Servicios de Almacenamiento*  
 
 **3.-Optimización y rendimiento**  
+  
 *- Optimización de recursos (imágenes, scripts)*  
 
 *- Despliegue de aplicaciones web*  
