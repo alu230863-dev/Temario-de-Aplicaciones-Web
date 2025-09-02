@@ -48,8 +48,15 @@ El flujo de trabajo con ramas, merge y pull requests facilita la colaboración, 
 ### Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
 **1.-Diseño e implementación del frontend**  
 *- Maquetación/Wireframe/Mockup*  
+ **Maquetacion:**  
+ La maquetación es el proceso de estructurar y organizar los elementos visuales y de contenido dentro de una página web o aplicación.  
+ **Wireframe:**  
+ Visualiza la disposición de los elementos principales (menús, botones, imágenes, textos) y definir la funcionalidad y jerarquía antes de diseñar.  
+ **Mockup:**  
+ Es una representación visual más detallada y realista del producto final; incluye colores, tipografías, imágenes, íconos y otros elementos gráficos.  
 
-*- API*
+*- API*  
+**API** significa **Application Programming Interface** (Interfaz de Programación de Aplicaciones). Es un conjunto de reglas y definiciones que permiten que diferentes programas, sistemas o componentes de software se comuniquen entre sí.  
 
 **2.-Diseño e implementación del backend**  
 *- Servidor*  
